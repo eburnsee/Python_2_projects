@@ -1,7 +1,7 @@
 # Python 2 - Projects
 Hello. This is where all of my projects from Python 2 class will live. Here you can find some brief documentation on each project.
 
-## Icon Manipulation
+## Icon Manipulation (Icon_manipulation.py)
 This program recieves user input for 10 strings of 10 "1"s(ones) and "0"s (zeros). The idea is to create an icon or picture that can then be scaled according to user input and inverted accordning to user input. 
 
 I have provided my example icon in "icon_example.txt". It looks as follows:
@@ -22,7 +22,7 @@ See the program in action below.
 ![Icon Manipulator part 1: creating the icon and scaling:](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/icon_manipulation/icon_1.PNG)
 ![Icon Manipulator part 1: creating the icon and scaling:](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/icon_manipulation/icon_2.PNG)
 
-## Object Oriented Programming Teaching (in Python)
+## Object Oriented Programming Teaching with Python (oop_with_python_teaching.py)
 In this script a have created some simple classes with simple callings of class attributes to cover the basics of object oriented programming with python.
 
 ## CSV Querying with Pittsburgh Arrest Data
