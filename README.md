@@ -26,7 +26,7 @@ See the program in action below.
 In this script a have created some simple classes with simple callings of class attributes to cover the basics of object oriented programming with python.
 
 ## CSV Querying with Pittsburgh Arrest Data
-In this program
+This program may be used to print all arrest charges documented for a given neighborhood in Pittsburgh.
 
 ## Wikipedia API Project
-This program
+This program uses requests to get information from Wikipedias API. Specifically, it returns the number of Wikipedai page titles beginning with a given search prefix.
