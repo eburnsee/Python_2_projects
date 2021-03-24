@@ -25,8 +25,8 @@ See the program in action below.
 ## Object Oriented Programming Teaching with Python (oop_with_python_teaching.py)
 In this script a have created some simple classes with simple callings of class attributes to cover the basics of object oriented programming with python.
 
-## CSV Querying with Pittsburgh Arrest Data
+## CSV Querying with Pittsburgh Arrest Data (Neigh_arrests.py)
 This program may be used to print all arrest charges documented for a given neighborhood in Pittsburgh.
 
-## Wikipedia API Project
+## Wikipedia API Project (wikipedia_titles_prefix_query.py)
 This program uses requests to get information from Wikipedias API. Specifically, it returns the number of Wikipedai page titles beginning with a given search prefix.
