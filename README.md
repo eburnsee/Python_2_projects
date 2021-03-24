@@ -6,15 +6,15 @@ This program recieves user input for 10 strings of 10 "1"s(ones) and "0"s (zeros
 
 I have provided my example icon in "icon_example.txt". It looks as follows:
 
-0000000001
-0000000011
-0000000111
-0000001111
-0000011111
-0000111111
-0001111111
-0011111111
-0111111111
+0000000001  
+0000000011  
+0000000111  
+0000001111  
+0000011111  
+0000111111  
+0001111111  
+0011111111  
+0111111111  
 1111111111
 
 See the program in action below. 
