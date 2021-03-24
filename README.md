@@ -5,6 +5,7 @@ Hello. This is where all of my projects from Python 2 class will live. Here you 
 This program recieves user input for 10 strings of 10 "1"s(ones) and "0"s (zeros). The idea is to create an icon or picture that can then be scaled according to user input and inverted accordning to user input. 
 
 I have provided my example icon in "icon_example.txt". It looks as follows:
+
 0000000001
 0000000011
 0000000111
