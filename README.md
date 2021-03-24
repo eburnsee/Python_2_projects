@@ -17,6 +17,7 @@ I have provided my example icon in "icon_example.txt". It looks as follows:
 1111111111
 
 See the program in action below. 
+
 ![Icon Manipulator part 1: creating the icon and scaling:](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/icon_manipulation/icon_1.PNG)
 ![Icon Manipulator part 1: creating the icon and scaling:](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/icon_manipulation/icon_2.PNG)
 
