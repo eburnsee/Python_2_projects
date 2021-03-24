@@ -27,11 +27,11 @@ In this script a have created some simple classes with simple callings of class 
 
 In the code, I create a class "Tree". Here you can see my instantiations of the objects and the objects themseleves called.
 ![OOP1: instantiation and call](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/oop_teaching/pictures_of_program/print_trees.JPG)
-
 ![OOP2: result](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/oop_teaching/pictures_of_program/print_object.JPG)
 
 Next, I call some of the class atributes of my objects.
 ![OOP3: attributes_calling](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/oop_teaching/pictures_of_program/attributes.JPG)
+
 ![OOP4: attributes_results](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/oop_teaching/pictures_of_program/attributes2.JPG)
 
 I then create two other classes. The first, Shrubery, I use to demonstrate inheritance of the attributes from the Tree class to the Shrubery class.
