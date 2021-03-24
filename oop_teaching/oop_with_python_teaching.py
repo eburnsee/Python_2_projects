@@ -27,16 +27,16 @@ class Tree:
 tree_1 = Tree('white pine', 300, 43)
 tree_2 = Tree('maple', 125, 35)
 
-# # print the string respresentations of the objects
-# print(tree_1,"\n",tree_2)
-# # print an class variable
-# print(tree_1.classification)
-# # print an object variable
-# print(tree_2.height)
-# # call the grow method on white_pine
-# print(tree_1.grow_tree(10))
-# # call the grow method 2
-# print(Tree.grow_tree(tree_2, 10))		
+# print the string respresentations of the objects
+print(f'\n{tree_1}\n{tree_2}\n')
+# print an class variable
+print(tree_1.classification)
+# print an object variable
+print(tree_2.height)
+# call the grow method on white_pine
+print(tree_1.grow_tree(10))
+# call the grow method 2
+print(f'{Tree.grow_tree(tree_2, 10)} \n')		
 
 # inheritance
 # shrub is child class of parent class tree
@@ -56,12 +56,13 @@ class Bush:
 		self.species = species
 		self.height = height
 	def cut_down(self):
-		return f'{self.species} height is {self.height*0}'
+		return f'{self.species} height is {self.height*0} \n'
 
 tree_4 = Bush('oleander', 3)
 
+# common function
 def cut_height(plant):
 	return plant.cut_down()
 
-# print(cut_height(tree_3))
-# print(cut_height(tree_4))
+print(cut_height(tree_3))
+print(cut_height(tree_4))
