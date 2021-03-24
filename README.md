@@ -45,5 +45,17 @@ Polymorphism is demonstrated by the cut_height method. Both objects' methods can
 ## CSV Querying with Pittsburgh Arrest Data (Neigh_arrests.py)
 This program may be used to print all arrest charges documented for a given neighborhood in Pittsburgh.
 
+Here is an example of the result:
+![csv: troyhill](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/pgh_neigh_arrest_csv_querying/neigh_arrests.JPG)
+
+
 ## Wikipedia API Project (wikipedia_titles_prefix_query.py)
-This program uses requests to get information from Wikipedias API. Specifically, it returns the number of Wikipedai page titles beginning with a given search prefix.
+This program uses requests to get information from Wikipedia's API. Specifically, it returns the number of Wikipedia page titles beginning with a given search prefix.
+
+Here I have chosen the search prefix "toilet". 
+![api: wikitoilet](https://raw.githubusercontent.com/eburnsee/python_2_projects/main/wikipedia_api_project/program_toilet_prefix.JPG)
+
+The API finds 168 page titles beginning with "toilet" and I give user input telling the program to display the titles.
+
+Within the program there is also a test for specifity of search string, i.e., if the search string turns back more than 500 results, the user will be asked to try a more specific search prefix.
+
